@@ -30,4 +30,4 @@ The following performance tests run against a public URL: https://automationbook
 
 * View Reports for Local Run :
 
-  After a run completion, Gatling generates report under `target/gatling`
+  After a run completion, Gatling generates a report under `target/gatling`
